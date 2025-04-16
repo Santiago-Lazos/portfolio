@@ -1,0 +1,53 @@
+/* src/styles/About.css */
+
+.about {
+    padding: 2rem 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+
+  }
+
+  
+.about__content {
+    margin-left: 235px;
+    max-width: 600px;
+    width: 100%;
+  }
+  
+  .about__title {
+    font-weight: 200;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #000000;
+  }
+  
+  .about__text {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #000000;
+  }
+  
+  .about__cv-btn {
+    display: inline-block;
+    width: 200px;
+    height: 45px;
+    border-radius: 5px;
+    position: relative;
+    top: 46px;
+    left: 450px;
+    background-color: #2196F3;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 2px;
+    display: inline-flex;       
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+
+  }
+  
+  .about__cv-btn:hover {
+    background-color: #1976D2;
+  }
+  
