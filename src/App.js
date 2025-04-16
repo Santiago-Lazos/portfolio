@@ -10,7 +10,6 @@ const App = () => {
       <div className="main-content">
         <Header />
         <About />
-        {/* Buttons irá después */}
       </div>
     </div>
   );
